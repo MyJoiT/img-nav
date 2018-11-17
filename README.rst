@@ -23,6 +23,11 @@ Note
 Table of Contents
 =================
 
+`B <#B>`_
+
+Websites
+========
+
 B
 ^
 
@@ -380,7 +385,7 @@ stocksnap_
 
 **Website**: https://stocksnap.io
 
-**Introduction**: Hundreds of high resolution images added weekly. Free from `copyright restrictions<https://stocksnap.io/license>`_.
+**Introduction**: Hundreds of high resolution images added weekly. Free from `copyright restrictions <https://stocksnap.io/license>`_.
 
 **i18n**: ✘
 
