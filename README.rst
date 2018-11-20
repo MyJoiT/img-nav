@@ -54,7 +54,7 @@ Websites
 ========
 
 `B <#Index>`_
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^
 
 bizutart_
 ---------
@@ -68,6 +68,20 @@ bizutart_
 **language**: Japanese
 
 ------
+
+`C <#Index>`_
+^^^^^^^^^^^^^^
+
+colorhub_
+---------
+
+**Website**: https://colorhub.me
+
+**Introduction**: 高清无版权图片，个人和商业用途免费
+
+**i18n**: ✘
+
+**language**: Chinese
 
 `D <#Index>`_
 ^^^^^^^^^^^^^
@@ -138,7 +152,6 @@ foter_
 
 ------
 
-
 freeimages_
 -----------
 
@@ -181,6 +194,15 @@ gratisography_
 
 `H <#Index>`_
 ^^^^^^^^^^^^^
+
+hippopx_
+-----------
+
+**Website**: https://www.hippopx.com
+
+**Introduction**: 
+
+**i18n**: ✔
 
 huaban_
 -------
@@ -421,6 +443,17 @@ pngimg_
 
 ------
 
+pxhere_
+-------
+
+**Website**: https://pxhere.com
+
+**Introduction**: 免费高清商业素材
+
+**i18n**: ✔
+
+------
+
 `S <#Index>`_
 ^^^^^^^^^^^^^
 
@@ -523,6 +556,7 @@ visualhunt_
 
 .. _img-nav: https://img-nav.com
 .. _bizutart: http://freephoto.bizutart.com
+.. _colorhub: https://colorhub.me
 .. _deathtothestockphoto: https://deathtothestockphoto.com
 .. _designerspics: http://www.designerspics.com
 .. _flickr: https://www.flickr.com
@@ -531,6 +565,7 @@ visualhunt_
 .. _freeimages: https://www.freeimages.com
 .. _free-stock-photos: https://www.howtostartanllc.org/free-stock-photos
 .. _gratisography: https://gratisography.com
+.. _hippopx: https://www.hippopx.com
 .. _huaban: http://huaban.com
 .. _huiman: https://www.huiman.net
 .. _iconfont: http://www.iconfont.cn
@@ -548,6 +583,7 @@ visualhunt_
 .. _pixabay: https://pixabay.com
 .. _pixta: https://pixta.jp
 .. _pngimg: http://pngimg.com
+.. _pxhere: https://pxhere.com
 .. _skuawk: http://skuawk.com
 .. _ssyer: https://www.ssyer.com/home
 .. _streetwill: http://www.streetwill.co
