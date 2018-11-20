@@ -9,18 +9,17 @@ Please abide the treaty of GPL3 If you will use this project.
 
 Website of this project is: https://img-nav.com
 
-**NOTE: All website in the list are available. Maybe you need a ssr account.**
-
 Thank you.
 
 
 Note
 ====
 
+**All the website in the list are available. Maybe you need a ssr account.**
+
 **i18n**: internationalization
 
 **language**: (if not support i18n) tell you what language the website use
-
 
 Index
 =====
