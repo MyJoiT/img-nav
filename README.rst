@@ -259,6 +259,19 @@ imcreator_
 
 ------
 
+ippawards_
+----------
+
+**Website**: https://www.ippawards.com
+
+**Introduction**: iPhone photography awards. THE IMAGES CAN NOT BE PUBLISHED OR RE-USED IN ANY FORM WITHOUT WRITTEN PERMISSION.
+
+**i18n**: ✘
+
+**language**: English
+
+------
+
 isorepublic_
 ------------
 
@@ -332,6 +345,32 @@ magdeleine_
 **i18n**: ✘
 
 **language**: English
+
+------
+
+mepai_
+-----------
+
+**Website**: https://www.mepai.me
+
+**Introduction**: 用镜头记录所见，用照片发现美丽，用分享传播精彩
+
+**i18n**: ✘
+
+**language**: Chinese
+
+------
+
+mys360_
+-----------
+
+**Website**: http://www.mys360.com
+
+**Introduction**: 免抠元素无线下载
+
+**i18n**: ✘
+
+**language**: Chinese
 
 ------
 
@@ -430,6 +469,19 @@ pixta_
 
 ------
 
+pngall_
+-------
+
+**Website**: http://pngall.com
+
+**Introduction**: Download High-Quality PNG Images for Free
+
+**i18n**: ✘
+
+**language**: English
+
+------
+
 pngimg_
 -------
 
@@ -440,6 +492,19 @@ pngimg_
 **i18n**: ✘
 
 **language**: English
+
+------
+
+polayoutu_
+-------
+
+**Website**: http://www.polayoutu.com/collections
+
+**Introduction**: 泼辣有图是摄影人发起的公开创源活动。泼辣有图的贡献者将他们的作品授权CC0协议, 即允许任何人免费将图片用于任何用途。每周，社区内 ISO 高于 1000 的用户会根据作品质量、故事内容投票筛选提交的照片，票数最高的 10 张照片会在下期展示。我们希望通过泼辣有图，世界能够看到美丽图像背后的故事。
+
+**i18n**: ✘
+
+**language**: Chinese
 
 ------
 
@@ -483,6 +548,17 @@ ssyer_
 
 ------
 
+stickpng_
+-----------
+
+**Website**: http://www.stickpng.com
+
+**Introduction**: StickPNG is a vibrant community of creative people sharing transparent PNG images which you can download for free and use in your personal non-commercial or educational projects. Browse our categories below to find clipart with no background or curated cut out photos.
+
+**i18n**: ✘
+
+**language**: English
+
 streetwill_
 -----------
 
@@ -522,6 +598,22 @@ superfamous_
 
 ------
 
+`T <#Index>`_
+^^^^^^^^^^^^^
+
+tuchong_
+------------
+
+**Website**: https://tuchong.com
+
+**Introduction**: 国内领先的正版素材商店，超过两亿张高清图片素材可供下载
+
+**i18n**: ✘
+
+**language**: Chinese
+
+------
+
 `U <#Index>`_
 ^^^^^^^^^^^^^
 
@@ -554,6 +646,38 @@ visualhunt_
 
 ------
 
+`X <#Index>`_
+^^^^^^^^^^^^^
+
+1x_
+---
+
+**Website**: https://www.1x.com
+
+**Introduction**: curated photography
+
+**i18n**: ✘
+
+**language**: English
+
+------
+
+`Y <#Index>`_
+^^^^^^^^^^^^^
+
+51yuansu_
+---------
+
+**Website**: http://www.51yuansu.com
+
+**Introduction**: 觅元素,为您提供免费设计元素,设计元素的资源站
+
+**i18n**: ✘
+
+**language**: Chinese
+
+------
+
 .. _img-nav: https://img-nav.com
 .. _bizutart: http://freephoto.bizutart.com
 .. _colorhub: https://colorhub.me
@@ -570,11 +694,14 @@ visualhunt_
 .. _huiman: https://www.huiman.net
 .. _iconfont: http://www.iconfont.cn
 .. _imcreator: http://imcreator.com/free
+.. _ippawards: https://www.ippawards.com
 .. _isorepublic: https://isorepublic.com
 .. _jaymantri: https://jaymantri.com
 .. _kaboompics: https://kaboompics.com
 .. _lifeofpix: https://www.lifeofpix.com
 .. _magdeleine: https://magdeleine.co/browse
+.. _mepai: https://www.mepai.me
+.. _mys360: http://www.mys360.com
 .. _NewOldStock: https://nos.twnsnd.co
 .. _500px: https://500px.com
 .. _pexels: https://www.pexels.com
@@ -582,12 +709,18 @@ visualhunt_
 .. _pinterest: https://www.pinterest.com
 .. _pixabay: https://pixabay.com
 .. _pixta: https://pixta.jp
+.. _pngall: http://www.pngall.com
 .. _pngimg: http://pngimg.com
+.. _polayoutu: http://www.polayoutu.com/collections
 .. _pxhere: https://pxhere.com
 .. _skuawk: http://skuawk.com
 .. _ssyer: https://www.ssyer.com/home
+.. _stickpng: http://www.stickpng.com
 .. _streetwill: http://www.streetwill.co
 .. _stocksnap: https://stocksnap.io
 .. _superfamous: https://images.superfamous.com
+.. _tuchong: https://tuchong.com
 .. _unsplash: https://unsplash.com
-.. _visualhunt: https://visualhunt.com/
+.. _visualhunt: https://visualhunt.com
+.. _1x: https://1x.com
+.. _51yuansu: http://www.51yuansu.com
