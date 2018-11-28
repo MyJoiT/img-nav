@@ -239,7 +239,7 @@ iconfont_
 
 **Website**: http://www.iconfont.cn
 
-**Introduction**: 今天，想和你聊聊图标库
+**Introduction**: 今天，想和你聊聊图标库（阿里图标库）
 
 **i18n**: ✘
 
