@@ -457,6 +457,15 @@ pixabay_
 
 ------
 
+pixiv_
+-------
+
+**Website**: https://www.pixiv.net
+
+**Introduction**: 让创作变得更有乐趣
+
+**i18n**: ✔
+
 pixta_
 ------
 
@@ -709,6 +718,7 @@ visualhunt_
 .. _picjumbo: https://picjumbo.com
 .. _pinterest: https://www.pinterest.com
 .. _pixabay: https://pixabay.com
+.. _pixiv: https://www.pixiv.net
 .. _pixta: https://pixta.jp
 .. _pngall: http://www.pngall.com
 .. _pngimg: http://pngimg.com
