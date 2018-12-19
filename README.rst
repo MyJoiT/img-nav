@@ -196,6 +196,17 @@ gratisography_
 `H <#Index>`_
 ^^^^^^^^^^^^^
 
+haibao_
+--------------
+
+**Website**: http://www.haibao.com
+
+**Introduction**: 海报(Poster)
+
+**i18n**: ✘
+
+**language**: Chinese
+
 hippopx_
 -----------
 
@@ -699,6 +710,7 @@ visualhunt_
 .. _freeimages: https://www.freeimages.com
 .. _free-stock-photos: https://www.howtostartanllc.org/free-stock-photos
 .. _gratisography: https://gratisography.com
+.. _haibao: http://www.haibao.com
 .. _hippopx: https://www.hippopx.com
 .. _huaban: http://huaban.com
 .. _huiman: https://www.huiman.net
