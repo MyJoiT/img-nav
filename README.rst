@@ -271,6 +271,19 @@ imcreator_
 
 ------
 
+imgur_
+----------
+
+**Website**: https://imgur.com
+
+**Introduction**: Do you know what is magic?
+
+**i18n**: ✘
+
+**language**: English
+
+------
+
 ippawards_
 ----------
 
@@ -716,6 +729,7 @@ visualhunt_
 .. _huiman: https://www.huiman.net
 .. _iconfont: http://www.iconfont.cn
 .. _imcreator: http://imcreator.com/free
+.. _imgur: https://imgur.com
 .. _ippawards: https://www.ippawards.com
 .. _isorepublic: https://isorepublic.com
 .. _jaymantri: https://jaymantri.com
