@@ -382,6 +382,19 @@ lifeofpix_
 
 ------
 
+loading_
+----------
+
+**Website**: https://loading.io
+
+**Introduction**: Build Your Ajax Loading Icons with SVG / CSS / GIF / APNG !
+
+**i18n**: ✘
+
+**language**: English
+
+------
+
 `M <#Index>`_
 ^^^^^^^^^^^^^
 
@@ -760,6 +773,7 @@ visualhunt_
 .. _jaymantri: https://jaymantri.com
 .. _kaboompics: https://kaboompics.com
 .. _lifeofpix: https://www.lifeofpix.com
+.. _loading: https://loading.io
 .. _magdeleine: https://magdeleine.co/browse
 .. _mepai: https://www.mepai.me
 .. _mys360: http://www.mys360.com
